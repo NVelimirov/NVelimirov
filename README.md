@@ -2,7 +2,7 @@
 - 👋 I'm Nikola Velimirov
 - 🌱 I’m currently learning SQA automation testing
 - 🔭 I’m currently working on my final ITBootcamp course project
-- 📫 How to reach me: https://www.linkedin.com/in/nikola-velimirov-43ab75249/
+- 📫 How to reach me: linkedin.com/in/nikolavelimirov
 <!--
 **NVelimirov/NVelimirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
